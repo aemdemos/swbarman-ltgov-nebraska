@@ -59,8 +59,8 @@
                 }
               ],
               "color": "rgb(0, 0, 255)",
-              "mapping": "columns",
-              "customBlockName": "ai-columns"
+              "mapping": "defaultContent",
+              "customBlockName": "ai-content"
             }
           ],
           "settings": {}
